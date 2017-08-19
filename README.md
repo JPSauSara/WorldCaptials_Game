@@ -1,2 +1,17 @@
 # WorldCaptials_Game
-Classic hangman game - Capitals of the World edition
+Hangman - Capitals of the World edition
+
+## App Description:
+	
+	A computer version of the classic hangman game featuring the capitals of the world. :earth_americas:
+
+#### Play Now: (COMING SOON!)
+
+## Technology Used
+	
+	* HTML
+
+	* CSS
+
+	* JavaScript
+
